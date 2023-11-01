@@ -1,9 +1,9 @@
 
-# README generator 
+# README generator
 
 ## Description
 
-generate a README
+generate a README file
 
 ## Table of Contents (Optional)
 
@@ -20,7 +20,7 @@ npm i
 
 ## Usage
 
-generate professional  README
+none
 
 
 ## License
@@ -38,7 +38,7 @@ none
 none
 
 ## Tests
-no test 
+no test
 
 
 ## Questions
